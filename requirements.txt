@@ -7,6 +7,6 @@ pandas==0.25.3
 scikit-learn==0.21.3
 lightgbm==2.3.1
 xgboost==0.90
-tensorflow==2.0.3
+tensorflow==2.4.0
 keras==2.3.1
 nltk==3.4.5
