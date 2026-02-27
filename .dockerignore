@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# GitHub Actions / CI
+.github
+
+# Claude Code
+.claude
+CLAUDE.md
+
+# Python virtual environment
+venv
+.venv
+__pycache__
+*.py[cod]
+*.pyo
+
+# Docs / metadata
+README.md
+LICENSE

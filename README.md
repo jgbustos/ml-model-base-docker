@@ -6,7 +6,7 @@
 Base Docker image to be used in Machine Learning projects, built as:
 
 * Linux (currently Debian Bullseye "slim")
-* Python 3 (currently 3.10)
+* Python 3 (currently 3.13)
 * Several Python pip packages used in data science and machine learning, e.g.:
    * Numpy
    * Pandas
