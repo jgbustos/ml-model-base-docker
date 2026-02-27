@@ -14,8 +14,6 @@ Base Docker image to be used in Machine Learning projects, built as:
    * Scikit-learn
    * LightGBM
    * XGBoost
-   * TensorFlow
-   * Keras
    * NLTK
 
 This will be used as a base to build other Docker images.
