@@ -1,7 +1,6 @@
 # ml-model-base-docker
 
 [![Build and publish Docker image](https://github.com/jgbustos/ml-model-base-docker/actions/workflows/main.yml/badge.svg)](https://github.com/jgbustos/ml-model-base-docker/actions/workflows/main.yml)
-[![Known Vulnerabilities](https://snyk.io/test/github/jgbustos/ml-model-base-docker/badge.svg)](https://app.snyk.io/org/jgbustos/projects)
 
 Base Docker image to be used in Machine Learning projects, built as:
 
